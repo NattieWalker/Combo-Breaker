@@ -1,0 +1,54 @@
+body {
+    background-color:#100701;
+    font-family: Courier, monospace;
+}
+h1 {
+    color:#f17c22;
+
+}
+
+h2{
+    color:#05a2c0;
+}
+
+h4 {
+    color: #f17c22;
+
+}
+h6 {
+    color: #edecdd;
+}
+
+p {
+    color:	#edecdd;
+
+
+}
+
+ul{
+    color: #05a2c0;
+}
+
+/* #canvas {
+    border: 1px solid #edecdd;
+    background-color: #144a61;
+} */
+
+.rules {
+
+}
+
+.details {
+
+}
+
+.combo {
+
+
+}
+
+.note {
+    font-size: 12px;
+    margin: -1px;
+
+}
